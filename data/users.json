@@ -1,0 +1,111 @@
+{
+    "5423631019": {
+        "name": "j",
+        "phone_number": "j",
+        "password": "j",
+        "tests": [
+            [
+                {
+                    "text": "сколько пальцев у человека?",
+                    "options": [
+                        "20",
+                        "10",
+                        "24",
+                        "15"
+                    ]
+                },
+                {
+                    "text": "Переведи на английский: Это моя собака",
+                    "options": [
+                        "This is my dog",
+                        "There is my dog",
+                        "This my dog"
+                    ]
+                }
+            ]
+        ]
+    },
+    "735386924": {
+        "name": "Bohdan",
+        "phone_number": "939393",
+        "password": "93939",
+        "tests": [
+            [
+                {
+                    "text": "2+2=?",
+                    "options": [
+                        "4",
+                        "2",
+                        "1"
+                    ]
+                },
+                {
+                    "text": "5-5=?",
+                    "options": [
+                        "0",
+                        "10",
+                        "20"
+                    ]
+                }
+            ],
+            [
+                {
+                    "text": "2+2=?",
+                    "options": [
+                        "4",
+                        "3"
+                    ]
+                }
+            ],
+            [
+                {
+                    "text": "3442",
+                    "options": [
+                        "2442",
+                        "242"
+                    ]
+                },
+                {
+                    "text": "2442",
+                    "options": [
+                        "422"
+                    ]
+                },
+                {
+                    "text": "4224",
+                    "options": [
+                        "422"
+                    ]
+                }
+            ]
+        ]
+    },
+    "7628807322": {
+        "name": "Bohdan",
+        "phone_number": "499494",
+        "password": "1234",
+        "tests": [
+            [
+                {
+                    "text": "2+2=?",
+                    "options": [
+                        "4",
+                        "2"
+                    ]
+                }
+            ]
+        ]
+    },
+    "980090479": {
+        "name": "leeeee",
+        "phone_number": "0789999877",
+        "password": "123456789",
+        "tests": []
+    },
+    "5122571533": {
+        "name": "KrasiviyNosochek",
+        "phone_number": "0011",
+        "password": "1234",
+        "tests": []
+    }
+}
