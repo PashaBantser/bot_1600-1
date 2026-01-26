@@ -104,7 +104,7 @@ async def questions_list_handler(message:Message, state:FSMContext):
         user = users[str(message.from_user.id)]
         user["tests"].append(state_data["questions_list"])
         create_json(data = users, name_file="users.json")
-        await message.answer(text="тест збережено", reply_markup=create_button(["Створити тест", "Переглянути тести"]))
+        await message.answer(text="Тест збережено", reply_markup=create_button(["Створити тест", "Переглянути тести"]))
         await state.set_state(Teacher.choice)
 
     
